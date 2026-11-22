@@ -1,0 +1,4 @@
+commit ef52257841b36e595d8b45c3149de1164e5d9902
+date   2026-11-21T21:07:25-08:00
+about  Cloak & Dagger 0.1.2: louder, three-tone DAC
+copied 2026-11-22 by tools/update-sdk.sh
