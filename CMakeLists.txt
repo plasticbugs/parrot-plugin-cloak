@@ -75,5 +75,5 @@ cvsd_use(cloak)
 cvpad_use(cloak)                            # USB game pads: the port is a host
 pico_enable_stdio_usb(cloak 0)
 pico_enable_stdio_uart(cloak 0)
-cvcart_plugin(cloak ID parrotcart.cloak NAME "Cloak & Dagger" VERSION 0.1.2 BY "Parrot Cart"
+cvcart_plugin(cloak ID parrotcart.cloak NAME "Cloak & Dagger" VERSION 0.1.3 BY "Parrot Cart"
               HOME /CLOAK USES usb-host ICON src/cloak/cloak_icon.txt FILE CLOAK.CVP README CART-README.md XIP)

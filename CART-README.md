@@ -56,4 +56,4 @@ You can find MAME at https://www.mamedev.org. The zip reader follows Mark Adler'
 
 The plugin itself is by Parrot Cart, and it's free. Its source is linked next to its download.
 
-Cloak & Dagger is a trademark of Atari. This plugin contains none of the game.
+Cloak & Dagger is a trademark of its owner. This plugin contains none of the game.

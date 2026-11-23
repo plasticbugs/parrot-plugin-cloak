@@ -1,1 +1,2 @@
-The first release.
+- A new icon in the cart's menu.
+- The README on the cart says Cloak & Dagger is a trademark of its owner.
